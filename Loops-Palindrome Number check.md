@@ -3,6 +3,7 @@
 ## 🎯 Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
 
+
 ## 🧠 Algorithm
 1. Get input from the user and assign it to a variable `num`.
 2. Assign the value of `num` to a temporary variable `temp`.
